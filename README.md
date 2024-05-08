@@ -1,7 +1,7 @@
 ### Overview
-This is an unofficial Python wrapper for the [OKX exchange v5 API](https://www.okx.com/okx-api)
+This is an unofficial Python wrapper for the [OKX exchange v5 API](https://www.okx.com/okx-api?channelid=ACE_ios_516382)
 
-If you came here looking to purchase cryptocurrencies from the OKX exchange, please go [here](https://www.okx.com/).
+If you came here looking to purchase cryptocurrencies from the OKX exchange, please go [here](https://www.okx.com/join?channelid=ACE_ios_516382).
 
 #### Source code
 https://github.com/okxapi/python-okx
@@ -11,7 +11,7 @@ https://t.me/OKXAPI
 - Spot trading: https://www.okx.com/help/how-can-i-do-spot-trading-with-the-jupyter-notebook
 - Derivative trading: https://www.okx.com/help/how-can-i-do-derivatives-trading-with-the-jupyter-notebook
 
-Make sure you update often and check the [Changelog](https://www.okx.com/docs-v5/log_en/) for new features and bug fixes.
+Make sure you update often and check the [Changelog](https://www.okx.com/docs-v5/log_en?channelid=ACE_ios_516382) for new features and bug fixes.
 
 ### Features
 - Implementation of all Rest API endpoints.
@@ -58,7 +58,7 @@ passphrase = ""
 
 Note 
 
-- To learn more about OKX API, visit official [OKX API documentation](https://www.okx.com/docs-v5/en/)
+- To learn more about OKX API, visit official [OKX API documentation](https://www.okx.com/docs-v5/en?channelid=ACE_ios_516382)
 
 - If you face any questions when using `WebSocketAPI`,you can consult the following links
 
